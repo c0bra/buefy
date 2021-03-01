@@ -1,0 +1,1 @@
+webpackJsonp([328], {383: function (e, a, t) { 'use strict'; Object.defineProperty(a, '__esModule', {value: !0}), a.default = [{name: 'Bulma variables', default: '<a target="_blank" href="https://bulma.io/documentation/form/input/#variables">Link</a>'}] }})
